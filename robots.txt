@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beautyskinvn.com/sitemap.xml
